@@ -1,6 +1,6 @@
 ﻿using ADOMonitor.Models.ADOBuilds;
 using ADOMonitor.Models.ADOReleases;
-using ADOMonitor.Models.ADOServiceHealth.Models;
+using ADOMonitor.Models.ADOServiceHealth;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using System;

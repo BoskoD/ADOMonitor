@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ADOMonitor.Models.ADOServiceHealth.Models
+namespace ADOMonitor.Models.ADOServiceHealth
 {
     internal class ServiceRoot
     {

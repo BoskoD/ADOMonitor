@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ADOMonitor.Models.ADOServiceHealth.Models
+namespace ADOMonitor.Models.ADOServiceHealth
 {
     internal class Service
     {

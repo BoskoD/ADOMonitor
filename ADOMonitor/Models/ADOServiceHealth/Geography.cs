@@ -1,4 +1,4 @@
-﻿namespace ADOMonitor.Models.ADOServiceHealth.Models
+﻿namespace ADOMonitor.Models.ADOServiceHealth
 {
     internal class Geography
     {
