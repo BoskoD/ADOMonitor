@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace ADOMonitor
 {
-    internal class Program
+    public class Program
     {
         public static IConfigurationRoot Configuration { get; set; }
 
